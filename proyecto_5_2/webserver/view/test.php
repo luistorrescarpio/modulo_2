@@ -14,6 +14,7 @@
 	
 </head>
 <body>
+	<div>Esto es una prueba</div>
 	<div class="py-5" style="	background-image: url(../public/img/fondo-001.jpg);	background-position: top left;	background-size: 300%;	background-repeat: no-repeat;	height: 99.5vh;">
 	    <div class="container">
 	      <div class="row">

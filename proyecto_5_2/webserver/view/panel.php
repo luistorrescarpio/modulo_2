@@ -8,6 +8,7 @@
 </head>
 <body>
   <h1>  Bienvenido</h1>
+  <div>Que tal</div>
   <a href="admin/welcome.php">Admin Ini</a>
   <button onclick="saludar()">saludar</button>
   <button onclick="userList()">getList User</button>
