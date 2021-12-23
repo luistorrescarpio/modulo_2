@@ -21,7 +21,7 @@ iii) Plataforma DroidScript
 
 >Pasos para instalación y configuración de DroidScript
 - Instalación de Droidscript desde playstore (iii)
-- Instalar el SPK desde la carpeta del proyecto /droidscript/mcl_proyecto_5.spk en su Smarpthone
+- Instalar el SPK desde la carpeta del proyecto /droidscript/mcl_proyecto_5.spk en su Smartphone
 - Abrir editor del proyecto mcl_proyecto_5 como edición, buscar el archivo init.js dentro de su entorno de edición, 
   y asignar la IP y la dirección de su webserver del proyecto para comunicación.
 
